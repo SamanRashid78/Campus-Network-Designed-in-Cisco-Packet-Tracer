@@ -1,6 +1,6 @@
-# Campus Network Design — Cisco Packet Tracer
+# Campus Network Design (Cisco Packet Tracer)
 
-A simulated multi-building campus network designed and configured in Cisco Packet Tracer. Models a real university campus topology with VLAN segmentation, inter-VLAN routing, and dynamic routing protocols — structured to reflect how enterprise and institutional networks are actually built.
+A simulated multi-building campus network designed and configured in Cisco Packet Tracer. Models a real university campus topology with VLAN segmentation, inter-VLAN routing, and dynamic routing protocols, structured to reflect how enterprise and institutional networks are actually built.
 
 ---
 
@@ -14,11 +14,6 @@ The simulation covers two network deployments:
 - Inter-VLAN routing via Layer 3 switch
 - RIP / static routing between buildings
 - DNS, DHCP, and HTTP servers configured
-
-**SOHO Network (`SOHO-NETWORK-DC-NET.pkt`)**
-- Small office / home office deployment
-- Single router with NAT, DHCP, and wireless access
-- Designed for a small team environment
 
 ---
 
@@ -44,7 +39,7 @@ Campus-Network-Designed-in-Cisco-Packet-Tracer/
 
 ## Tools Used
 
-- Cisco Packet Tracer 8+
+- Cisco Packet Tracer
 - Protocols: VLANs, RIP, OSPF, NAT, DHCP, DNS
 
 ---
